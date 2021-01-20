@@ -1,5 +1,5 @@
 #### :wave: Hi I'm Alex!
-I’m a 3B Software Engineering student at the [University of Waterloo](https://uwaterloo.ca/) with a specialization in human-computer interaction. I'm currently a software engineering intern :woman_technologist: at [Zillow](https://www.zillow.com/); previously, I've interned at [Hockeystick](https://www.hockeystick.co/), [Properly](https://www.properly.ca/), and [Sun Life](https://www.sunlife.ca/en/).
+I’m a fourth year Software Engineering student at the [University of Waterloo](https://uwaterloo.ca/) with a specialization in human-computer interaction. I'm currently a software engineering intern :woman_technologist: at [Splunk](https://www.splunk.com/); previously, I've interned at [Zillow](https://www.zillow.com/), [Hockeystick](https://www.hockeystick.co/), [Properly](https://www.properly.ca/), and [Sun Life](https://www.sunlife.ca/en/).
 
 #### :sparkles: Currently I'm...
 - learning Ruby on Rails
