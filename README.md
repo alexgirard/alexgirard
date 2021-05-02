@@ -1,9 +1,8 @@
 #### :wave: Hi I'm Alex!
-I’m a fourth year Software Engineering student at the [University of Waterloo](https://uwaterloo.ca/) with a specialization in human-computer interaction. I'm currently a software engineering intern :woman_technologist: at [Splunk](https://www.splunk.com/); previously, I've interned at [Zillow](https://www.zillow.com/), [Hockeystick](https://www.hockeystick.co/), [Properly](https://www.properly.ca/), and [Sun Life](https://www.sunlife.ca/en/).
+I’m a fourth year Software Engineering student at the [University of Waterloo](https://uwaterloo.ca/) specializing in human-computer interaction. I'm currently a software engineering intern :woman_technologist: at [Twitch](https://www.twitch.tv/); previously, I've interned at [Splunk](https://www.splunk.com/), [Zillow](https://www.zillow.com/), [Hockeystick](https://www.hockeystick.co/), [Properly](https://www.properly.ca/), and [Sun Life](https://www.sunlife.ca/en/).
 
 #### :sparkles: Currently I'm...
-- learning Ruby on Rails
-- attempting to write a Medium article
+- working on my [fourth year design project](https://github.com/Team-Chicken-Nuggets/quizem-frontend)
 - creating a social music application :eyes:
 
 #### :coffee: Wanna chat?
